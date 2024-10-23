@@ -1,3 +1,5 @@
+```mermaid
+
 journey
     title AccessOwl Request Process Responsibilities
     section Request Initiation
@@ -17,3 +19,5 @@ journey
       IT-help post: 5: User
       Escalation: 5: IT Admin
       Priority process: 5: Tool Owner
+
+```
