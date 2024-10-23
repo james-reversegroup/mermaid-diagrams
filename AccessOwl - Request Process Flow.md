@@ -1,4 +1,5 @@
 ```mermaid
+
 sequenceDiagram
     participant User
     participant Slack/AccessOwl
@@ -42,4 +43,5 @@ sequenceDiagram
         Slack/AccessOwl->>User: Access granted
         IT Admin->>Tool Owner: Notification of override
     end
+
 ```
