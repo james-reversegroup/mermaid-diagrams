@@ -1,3 +1,4 @@
+```Marmaid
 flowchart TD
     start[Need SMS/2FA?]
     altAuth{Alternative 2FA Available?}
@@ -31,3 +32,4 @@ flowchart TD
     style euPhone fill:#bbf,stroke:#333,stroke-width:2px
     style noPhone fill:#fcc,stroke:#333,stroke-width:2px
     style useAlt fill:#cfc,stroke:#333,stroke-width:2px
+```
