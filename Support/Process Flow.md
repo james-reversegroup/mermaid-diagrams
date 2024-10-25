@@ -1,4 +1,4 @@
-```marmaid
+```mermaid
 
 flowchart TD
     start[Need IT Support?]
