@@ -1,4 +1,4 @@
-```mwemaid
+```mermaid
 
 flowchart LR
     subgraph Access["Access Management"]
